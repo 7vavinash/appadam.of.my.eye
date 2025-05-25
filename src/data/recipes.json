@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Artikay Kofta",
+    "serves": 4,
+    "prep": 20,
+    "cook": 15,
+    "desc": "A healthy twist on kofta with no onions or potatoes",
+    "img": "/images/kofta.jpg",
+    "ingredients": [
+      "Raw banana \u2013 2 large",
+      "Tomato \u2013 2 large",
+      "Green chillies \u2013 4 total",
+      "Ginger \u2013 1\u00bd-inch baton",
+      "Peanuts or cashews \u2013 2 tbsp",
+      "Chickpea flour \u2013 2 tbsp",
+      "Turmeric \u2013 \u00bc tsp",
+      "Coriander powder \u2013 1 tsp",
+      "Red chilli powder \u2013 \u00be tsp",
+      "Fenugreek leaves \u2013 1 tsp",
+      "Garam masala \u2013 \u00bd tsp",
+      "Salt as needed"
+    ],
+    "steps": [
+      "Cook & peel plantains; mash.",
+      "Mix in ginger, chillies, flour, spices & coriander; form balls.",
+      "Fry in an Appe pan or air-fry at 375\u00b0F for 7 minutes.",
+      "Blend tomato, ginger, chillies & nuts; saut\u00e9 spices, add paste & water; simmer.",
+      "Cook kofta in gravy 2\u20133 min, garnish & serve."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Simplest Coconut Kurma",
+    "serves": 2,
+    "prep": 5,
+    "cook": 15,
+    "desc": "Velvety, no-onion-no-garlic curry ready in 20 min",
+    "img": "/images/kurma.jpg",
+    "ingredients": [
+      "Potato \u2013 1 medium",
+      "Carrot \u2013 1 cup",
+      "Beans \u2013 \u00bd cup",
+      "Peas \u2013 \u2153 cup",
+      "Coconut milk \u2013 \u2153 cup",
+      "Water \u2013 2 cups",
+      "Oil \u2013 1 tbsp",
+      "Cumin seeds \u2013 \u00bd tsp",
+      "Mirchi powder \u2013 \u00bd tsp",
+      "Kitchen King masala \u2013 \u00bd tsp",
+      "Turmeric \u2013 pinch",
+      "Salt as needed"
+    ],
+    "steps": [
+      "Heat oil; splutter cumin seeds.",
+      "Add veg + water + salt; cook 3 whistles; mash lightly.",
+      "Simmer off excess water; stir in coconut milk.",
+      "Add peas & spices; cook 2\u20133 min; garnish & serve."
+    ]
+  }
+]
